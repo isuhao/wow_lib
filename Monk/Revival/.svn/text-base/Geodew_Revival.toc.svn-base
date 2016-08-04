@@ -1,0 +1,8 @@
+## Interface: 70000
+## Author: cqwrteur, Geodew
+## Title: Geodew_Revival
+## Version: @project-version@
+## Dependencies: Geodew
+## SavedVariables: Geodew_RevivalDB
+
+Core.lua

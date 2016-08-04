@@ -1,0 +1,16 @@
+﻿## Interface: 70000
+## Author: cqwrteur, Geodew
+## Title: Geodew Options
+## Version: @project-version@
+## Dependencies: Geodew
+## LoadOnDemand: 1
+
+#@no-lib-strip@
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+#@end-no-lib-strip@
+
+locale\locale.xml
+Init.lua
+module\module.xml
+Core.lua

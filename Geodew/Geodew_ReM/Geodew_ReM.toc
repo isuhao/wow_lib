@@ -1,0 +1,9 @@
+## Interface: 70000
+## Author: cqwrteur, Geodew
+## Title: Geodew_ReM
+## Version: @project-version@
+## Dependencies: Geodew
+## SavedVariables: Geodew_ReMDB
+
+Init.lua
+Core.lua

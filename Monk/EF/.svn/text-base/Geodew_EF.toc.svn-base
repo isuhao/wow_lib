@@ -1,0 +1,8 @@
+## Interface: 70000
+## Author: cqwrteur, Geodew
+## Title: Geodew_EF
+## Version: @project-version@
+## Dependencies: Geodew
+## SavedVariables: Geodew_EFDB
+
+Core.lua
